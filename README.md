@@ -6,3 +6,4 @@ Data visualisation library.
 - Learn about svgs:
   - Video Course: https://frontendmasters.com/courses/svg-essentials-animation/
   - Materials: https://github.com/sdras/svg-workshop
+  - Svg path builder tool online: https://yqnn.github.io/svg-path-editor/
